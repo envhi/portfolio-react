@@ -26,22 +26,6 @@ export default function Projects() {
       link: "#",
       colSpan: "col-span-1",
     },
-    {
-      title: "Projeto 4",
-      description: "Descrição do projeto 4",
-      image:
-        "https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Y29kaW5nfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
-      link: "#",
-      colSpan: "col-span-1",
-    },
-    {
-      title: "Projeto 5",
-      description: "Descrição do projeto 5",
-      image:
-        "https://images.unsplash.com/photo-1551650975-87deedd944c3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bW9iaWxlJTIwYXBwfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
-      link: "#",
-      colSpan: "col-span-1",
-    },
   ]
 
   return (
